@@ -14,5 +14,8 @@ jobs:
         run: echo "Hello world"
         shell: bash
       - name: Run goodbye
+        run: echo "Goodbye"
+        shell: bash
+      - name: Run goodbye
 	run: echo "Goodbye"
 	shell: bash
