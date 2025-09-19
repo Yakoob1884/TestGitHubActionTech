@@ -15,4 +15,4 @@ jobs:
         shell: bash
       - name: Run goodbye
 	run: echo "Goodbye"
-	shell:bash
+	shell: bash
